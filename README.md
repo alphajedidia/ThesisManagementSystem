@@ -3,7 +3,7 @@ This repository contains a PHP project for a thesis management system. The syste
 Functionalities
 The application provides the following functionalities:
 
-CRUD Operations: Create, list, and update records for the tables Etudiant, Professeur, Organisme, and Soutenir. (9pts)
+CRUD Operations: Create, list, and update records for the tables Etudiant, Professeur, Organisme, and Soutenir.
 Student Search: Search for students by their ID or name.
 List of Registered Students by Level: Display a list of registered students grouped by their academic level, along with the total number of students in each level.
 Automatic PDF Generation: Generate a PDF document automatically, containing a thesis defense report.
